@@ -25,7 +25,7 @@
 
 const APP_CONFIG = {
   app: {
-    name: 'pwa-app'
+    name: 'fineshop-pwa-app'
   },
   github: {
     username: 'allotaalimdev',
